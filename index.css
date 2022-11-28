@@ -1,0 +1,32 @@
+canvas
+{
+	border: 1px solid #d3d3d3;
+	background-color: #c8c8c8;
+}
+body
+{
+    background-color: #161616;
+}
+p
+{
+    font-size: 20px;
+    color: #f1f1f1;
+}
+h3
+{
+    font-size: 20px;
+    color: #e1c1c1;
+}
+li
+{
+    font-size: 15px;
+    color: #f1f1f1;
+}
+
+#IsRed      {color: #e10000;}
+#IsOrange   {color: #e16400;}
+#IsYellow   {color: #e1c100;}
+#IsGreen    {color: #006400;}
+#IsBlue     {color: #0000e1;}
+#IsIndigo   {color: #3200c1;}
+#IsViolet   {color: #6400c1;}

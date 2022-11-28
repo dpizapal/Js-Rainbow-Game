@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang = "en-US">
+
+<head>
+<meta name="viewport" content="width=device-width, initial-scale = 1.0"/>
+<link rel="stylesheet" type="text/css" href="index.css">
+
+	<title>
+		HTML Quick Game
+	</title>
+</head>
+
+<body onload="StartGame()">
+
+    <script src="index.js"></script>
+    <h3>Instructions Below:</h3>
+    <ul list-style-type:square>
+        <li> Use the arrow keys and spacebar to move.</li>
+        <li> If stuck press enter (return) to restart the level.</li>
+        <li> Grab the key and use it to enter the door.</li>
+        <li> Enter the door to reach the next level.</li>
+    </ul>
+    <h3>Colors:</h3>
+    <ul list-style-type:square>
+        <li><span id="IsRed"> Red:</span> That's you, the Player!</li>
+        <li><span id="IsOrange"> Orange:</span> That's the door.</li>
+        <li><span id="IsYellow"> Yellow:</span> That's the key.</li>
+        <li><span id="IsGreen"> Green:</span> That's a special block.</li>
+        <li><span id="IsBlue"> Blue:</span> That's a pressure switch.</li>
+        <li><span id="IsIndigo"> Indigo:</span> That's a secret wall.</li>
+        <li><span id="IsViolet"> Violet:</span> That's all the basic blocks around you.</li>
+    </ul>
+    <h3>Hints:</h3>
+    <ul list-style-type:square>
+        <li> A certain type of block can be moved and used for many things.</li>
+        <li> Some walls look like they're a different color. Prehaps they can be moved.</li>
+        <li> When a switch is triggered, it is triggered for the rest of the level.</li>
+    </ul>
+
+</body>
+</html>
