@@ -1,26 +1,25 @@
 # Js-Rainbow-Game
 
-Descripción 🏝
+## Descripción 🏝
 Esta es un ejercicio para practicar, he creado un juego usando Javascript
 
-Autor ✒️
+## Autor ✒️
 DAVID PIZARRO PALANCAR
 
-LinkedIn
+## LinkedIn
 www.linkedin.com/in/david-pizarro-developer
 
-Ver ejemplo en vivo
+## Ver ejemplo en vivo
 https://js-rainbow-game.netlify.app/
 
-Instalación
+## Instalación
 Este proyecto no necesita de instalación.
 
-Contratación
+## Contratación
 Si quieres contratarme puedes escribirme a pizarro.developer@gmail.com para consultas
 
-Herramientas, Recursos
-html-canvas
-draw function ()
-2D Array
+##Herramientas, Recursos
+- html-canvas
+- draw function()
+- 2D Array
 
-mathjs
